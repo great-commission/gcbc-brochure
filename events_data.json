@@ -345,7 +345,75 @@
           ]
         }
       ],
-      "October": [{}],
+      "October": [
+        {
+          "date": 13,
+          "title": "Reaching In to Reach Out",
+          "scripture": "Acts 26:4-23",
+          "summary": "Paul is brought before the King to defend himself against the accusations made by the Jewish religious leaders. He relates how as a child he was a strict member of the Pharisees, of how he opposed the belief in Jesus, causing many believers to be condemned to death, even hounding them to distant foreign cities. It was for this purpose he was on his way to Damascus when a bright light struck him and he heard a voice saying, 'I am Jesus, the one you are persecuting; now go, for I have appointed you as my servant and witness to the Gentiles so they will receive forgiveness of their sins and an inheritance among those who are sanctified by faith.' He stated that it is because of the obedience to this call that he is being accused. Like Paul, believers are encouraged to use their testimony of conversion to share the Gospel with others.",
+          "key_points": [
+            {
+              "heading": "Life before conversion:",
+              "type": "unordered",
+              "items": [
+                "Describe your feelings, emotions and experiences before your life with Jesus."
+              ]
+            },
+            {
+              "heading": "The conversion:",
+              "type": "unordered",
+              "items": [
+                "Use simple language to describe the conversion experience",
+                "Talk about what He did for you",
+                "Utilize scripture"
+              ]
+            },
+            {
+              "heading": "Life with Jesus (after conversion):",
+              "type": "unordered",
+              "items": [
+                "Focus on the change that took place",
+                "What are the things you are doing differently",
+                "Attempt to reach the listener by explaining that God could do the same for them as well."
+              ]
+            }
+          ]
+        },
+        {
+          "date": 27,
+          "title": "Delighting in the Lord, Devoted to Service",
+          "scripture": "Matthew 22:37; Luke 10:38-42; Mark 13-31",
+          "summary": "Encouragement from the Word, focusing on Passion, Problem and People.",
+          "key_points": [
+            {
+              "heading": "Passion — Putting God first (Matthew 22:37):",
+              "type": "unordered",
+              "items": [
+                "We are to love God with all our heart, our soul and our minds",
+                "God loves us and He wants us to love Him in return"
+              ]
+            },
+            {
+              "heading": "Problem — You know what you are supposed to, but don't (Luke 10:38-42):",
+              "type": "unordered",
+              "items": [
+                "Love God by getting to know Him",
+                "God desires fellowship, communion and obedience",
+                "Allow His Holy Spirit to do His work in you"
+              ]
+            },
+            {
+              "heading": "People — Love your neighbor as yourself (Mark 13-31):",
+              "type": "unordered",
+              "items": [
+                "Your neighbor is anyone that you are in contact with",
+                "Do for others what you would like them to do for you",
+                "Treat people with the same concern as you would do for yourself"
+              ]
+            }
+          ]
+        }
+      ],
       "November": [{}],
       "December": [{}]
     },
@@ -415,12 +483,21 @@
           "description": ""
         }
       ],
-      "October": [{}],
+      "October": [
+        {
+          "title": "GCBC's Annual Victory Heights Family Camp",
+          "date": "October 30th - November 1st",
+          "time": "",
+          "location": "Victory Heights Family Camp",
+          "description": ""
+        }
+      ],
       "November": [{}],
       "December": [{}]
     },
     "announcements": [
-      "October 2nd - Fundraiser BBQ"
+      "October 2nd - Fundraiser BBQ",
+      "October 30th - November 01st: GCBC'S annual Victory Heights Family Camp"
     ],
     "contact": {
       "phone": "1-(868)-299-8281",
@@ -933,7 +1010,24 @@
         "theme": "",
         "author": ""
       },
-      "October": {},
+      "October": {
+        "title": "October Wisdom Tips — Christmas Budgeting",
+        "tip": "",
+        "steps_label": "Tips",
+        "steps": [
+          "Calculate your spending limit",
+          "Divide your total amount into weekly or monthly targets",
+          "Avoid impulse purchases, make a list and stick to it",
+          "Avoid using credit for holiday shopping",
+          "Purchase items like lights and decorations when on sale",
+          "Give DIY gifts, meet a need, plan an experience or provide acts of service instead of store bought items",
+          "Start planning for the next year"
+        ],
+        "verse": "",
+        "verse_text": "",
+        "theme": "",
+        "author": ""
+      },
       "November": {},
       "December": {}
     },
@@ -995,7 +1089,13 @@
           "verse": ""
         }
       },
-      "October": {},
+      "October": {
+        "verse_of_the_month": {
+          "verse": "Ephesians 2:8,9",
+          "text": "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God, not by works, so that no one can boast.",
+          "theme": ""
+        }
+      },
       "November": {},
       "December": {}
     },
